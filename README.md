@@ -1,4 +1,4 @@
-# studentComm
+# studentCommunity
 
 ## Technology Stack
 
@@ -11,7 +11,7 @@
  
  #### 1. First the clone the repository locally by 
   ```
-      git clone https://github.com/heth0218/studentComm
+      git clone https://github.com/NemilShah007/studentCommunity
   ```
  #### 2. Install all packages 
  
